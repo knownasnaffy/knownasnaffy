@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @naffydharni006
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me - No, you can't
