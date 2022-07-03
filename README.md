@@ -39,9 +39,9 @@
 <div align="center">
 <p>
 <!-- TODO-IST:START -->
-🏆  3,171 Karma Points           <br>
-🌸  Completed 3 tasks today           <br>
-✅  Completed 99 tasks so far           <br>
+🏆  3,171 Karma Points           
+🌸  Completed 3 tasks today           
+✅  Completed 99 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 </p>
