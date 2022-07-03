@@ -24,3 +24,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
+### Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
