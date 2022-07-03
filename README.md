@@ -40,3 +40,7 @@
 ✅  Completed 97 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
+
+### Contribution Stats
+
+![Contrib Stats](./profile-3d-contrib/profile-green-animate.svg)
