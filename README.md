@@ -1,6 +1,7 @@
-# Naffy Dharni
+<img src="./github-header-image.png" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+mate+%F0%9F%91%8B;Welcome+to+my+Profile;Some+info+about+me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2EF764&center=true&lines=Hello+mate+%F0%9F%91%8B;Here+is+some+info+on+me.;If+you+liked+the+template%2C;Don't+just+fork+it%2C;Star+it+too!)](https://git.io/typing-svg)
+
 
 <h3 align="center">Social</h3>
 <p align="center">
