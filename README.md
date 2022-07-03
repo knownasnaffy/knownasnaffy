@@ -1,5 +1,8 @@
 # Naffy Dharni
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+mate+%F0%9F%91%8B;Welcome+to+my+Profile;Some+info+about+me%3A)](https://git.io/typing-svg)
+
+
 ## About
 
 ### Social
@@ -8,7 +11,7 @@
 ![Discord](https://dcbadge.vercel.app/api/shield/769074861644840983)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
-
+![](https://komarev.com/ghpvc/?username=naffydharni006&style=for-the-badge&color=ff69b4)
 
 ## Technologies & Tools 🛠️
 
