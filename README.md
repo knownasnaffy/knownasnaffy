@@ -1,8 +1,5 @@
 <img src="./github-header-image.png" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2EF764&center=true&lines=Hello+mate+%F0%9F%91%8B;Here+is+some+info+on+me.;If+you+liked+the+template%2C;Don't+just+fork+it%2C;Star+it+too!)](https://git.io/typing-svg)
-
-
 <h3 align="center">Social</h3>
 <p align="center">
 <a href="https://open.spotify.com/user/68s91zbwyblid1ckknimugn8u?si=gZbiE_XqQe25d_mGFy7Amg">
@@ -11,7 +8,9 @@
 <a href="https://twitter.com/dharni_naffy?t=dRcl2t5B9ki07Qs0v6vnyw&s=09">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
+<a href="https://www.snapchat.com/add/naffy_dharni?share_id=CF-z2eLtLEk&locale=en-GB">
 <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" />
+</a>
 <a href="https://discord.gg/BU4kQbBqAe">
 <img src="https://dcbadge.vercel.app/api/shield/769074861644840983" />
 </a>
