@@ -5,7 +5,9 @@
 
 <h3 align="center">Social</h3>
 <p align="center">
+<a href="https://open.spotify.com/user/68s91zbwyblid1ckknimugn8u?si=gZbiE_XqQe25d_mGFy7Amg">
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" />
 <img src="https://dcbadge.vercel.app/api/shield/769074861644840983" />
