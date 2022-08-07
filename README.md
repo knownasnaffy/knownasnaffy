@@ -6,10 +6,9 @@
 <h3 align="center">Social</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-<img src="https://dcbadge.vercel.app/api/shield/769074861644840983" />
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=naffydharni006&style=for-the-badge&color=ff69b4" />
+<img src="https://dcbadge.vercel.app/api/shield/769074861644840983" />
 </p>
 
 
@@ -20,21 +19,7 @@
 </p>
 
 
-<h3 align="center">Todoist Stats</h3>
-
-<div align="center">
-<p>
-<!-- TODO-IST:START -->
-🏆  5,948 Karma Points           
-🌸  Completed 9 tasks today           
-✅  Completed 281 tasks so far           
-⏳  Longest streak is 5 days
-<!-- TODO-IST:END -->
-</p>
-</div>
-
 <h3 align="center">Contribution Stats</h3>
-
 
 <p align="center">
 <img src="./profile-3d-contrib/profile-green-animate.svg">
