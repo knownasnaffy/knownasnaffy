@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" />
+<a href="https://discord.gg/BU4kQbBqAe">
 <img src="https://dcbadge.vercel.app/api/shield/769074861644840983" />
+</a>
 </p>
 
 
