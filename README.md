@@ -20,7 +20,7 @@
 <h3 align="center">Technologies & Tools 🛠️</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=css,electron,git,github,heroku,html,js,jest,mongodb,mysql,netlify,nextjs,nodejs,powershell,py,react,rollupjs,stackoverflow,tailwind,ts,vercel,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=electron,git,github,js,jest,mongodb,netlify,nextjs,nodejs,powershell,py,react,rollupjs,stackoverflow,tailwind,ts,vercel,vscode&perline=7" />
 </p>
 
 
