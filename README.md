@@ -8,9 +8,6 @@
 <a href="https://twitter.com/dharni_naffy?t=dRcl2t5B9ki07Qs0v6vnyw&s=09">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-<a href="https://www.snapchat.com/add/naffy_dharni?share_id=CF-z2eLtLEk&locale=en-GB">
-<img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" />
-</a>
 <a href="https://discord.gg/BU4kQbBqAe">
 <img src="https://dcbadge.vercel.app/api/shield/769074861644840983" />
 </a>
