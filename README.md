@@ -1,6 +1,6 @@
 ![LabtoCat](https://octodex.github.com/images/labtocat.png)
 
-# Naffy Dharni
+<h1 align="center">Naffy Dharni</h1>
 
 <h3 align="center">Contribution Stats</h3>
 
