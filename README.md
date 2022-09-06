@@ -6,6 +6,9 @@
 <a href="https://twitter.com/dharni_naffy?t=dRcl2t5B9ki07Qs0v6vnyw&s=09">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
+<a href="https://github.com/anDiary/anDiary">
+<img src="https://img.shields.io/badge/anDiary-yellow?style=for-the-badge" />
+</a>
 </p>
 
 <h3 align="center">Contribution Stats</h3>
