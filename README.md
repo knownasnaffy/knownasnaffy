@@ -53,6 +53,10 @@
 <h2 align="center">Contribution Stats</h2>
 
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=naffydharni006&theme=vue&hide_border=true" alt="Github Streak" />
+  </a>
+
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution Stats" width=600 height="auto" />
 </p>
 
