@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://octodex.github.com/images/labtocat.png" alt="Labtocat" width=400 height=400 />
+  <img src="https://octodex.github.com/images/labtocat.png" alt="Labtocat" width=200 height=200 />
 </p>
 
 <h1 align="center">Naffy Dharni</h1>
