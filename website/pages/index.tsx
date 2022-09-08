@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+
 const Home: NextPage = () => {
     return (
         <div data-theme="dark" id="container">
@@ -11,18 +12,6 @@ const Home: NextPage = () => {
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            {/* <!-- particles.js container --> */}
-            <div id="particles-js"></div>
-            {/* <!-- stats - count particles --> */}
-            {/* <div className="count-particles">
-                {" "}
-                <span className="js-count-particles">--</span> particles{" "}
-            </div> */}
-            {/* <!-- particles.js lib - https://github.com/VincentGarreau/particles.js --> */}
-            <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-            {/* <!-- stats.js lib --> */}
-            {/* <script src="http://threejs.org/examples/js/libs/stats.min.js"></script> */}
-            <script src="../scripts/particles.js" />
         </div>
     );
 };
