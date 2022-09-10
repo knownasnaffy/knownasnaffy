@@ -8,7 +8,7 @@
   <a href="https://twitter.com/dharni_naffy?t=dRcl2t5B9ki07Qs0v6vnyw&s=09">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://andiary.vercel.app">
+  <a href="https://andiary.tk">
     <img src="https://img.shields.io/badge/&%20anDiary-yellow?style=for-the-badge" alt="anDiary" />
   </a>
   <a href="https://naffydharni.tk">
