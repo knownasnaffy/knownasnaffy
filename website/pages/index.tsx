@@ -5,9 +5,7 @@ import { Navbar } from "../components"
 
 const Home: NextPage = () => {
 	return (
-		<div
-			className='h-screen'
-		>
+		<div className='h-screen'>
 			<Head>
 				<title>Create Next App</title>
 				<meta
@@ -19,7 +17,14 @@ const Home: NextPage = () => {
 					href='/favicon.ico'
 				/>
 			</Head>
-            <Navbar />
+			<Navbar />
+			<main className='container mx-auto md:px-20 px-10'>
+				<section className='min-h-screen flex items-center'>
+					<h1 className='text-8xl font-bold md:underline underline-offset-8 decoration-primary decoration-8'>
+						<span className='text-primary'>Naffy</span> Dharni
+					</h1>
+				</section>
+			</main>
 		</div>
 	)
 }
