@@ -1,7 +1,7 @@
 export function Navbar() {
 	return (
 		<>
-			<div className='navbar bg-base-100 sticky-top'>
+			<div className='navbar bg-base-100 fixed shadow-md'>
 				<div className='navbar-start'>
 					<div className='dropdown'>
 						<label
