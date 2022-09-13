@@ -1,7 +1,7 @@
 export function Navbar() {
 	return (
 		<>
-			<div className='navbar bg-base-100 fixed shadow-md'>
+			<nav className='navbar bg-base-100 fixed shadow-md'>
 				<div className='navbar-start'>
 					<div className='dropdown'>
 						<label
@@ -68,7 +68,7 @@ export function Navbar() {
 						</svg>
 					</a>
 				</div>
-			</div>
+			</nav>
 		</>
 	)
 }
