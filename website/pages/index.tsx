@@ -1,6 +1,6 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import { Footer, Navbar } from "../components"
+import { About, Footer, Navbar } from "../components"
 
 const Home: NextPage = () => {
 	return (
@@ -19,35 +19,11 @@ const Home: NextPage = () => {
 			<Navbar />
 			<main className='container px-10 mx-auto md:px-20'>
 				<section className='flex flex-col min-h-screen justify-items-start place-content-center'>
-					<h1 className='font-bold text-8xl md:underline underline-offset-8 decoration-primary decoration-8'>
+					<h1 className='font-bold text-9xl md:underline underline-offset-8 decoration-primary decoration-8'>
 						<span className='text-primary'>Naffy</span> Dharni
 					</h1>
-					<br />
-					<a
-						href='#about'
-						className='mt-5 text-lg normal-case btn btn-primary max-w-fit'
-					>
-						About me
-					</a>
 				</section>
-				<section
-					id='about'
-					className='pt-16'
-				>
-					<h2 className='text-5xl font-bold'>
-						<span className='pb-2 border-b-8 rounded-lg border-primary/90'>
-							<span className='text-primary/90'>About</span> Me
-						</span>
-					</h2>
-					<p className='max-w-3xl pt-16 text-xl prose'>
-						Hey buddy 👋, Welcome to my portfolio.
-						<br />I am currently a high school student and I am
-						preparing for JEE Main and seeking to get into the
-						Thapar Institute of Engineering and Technology. I am
-						also a foodie 😋 - name a Punjabi who is not. 😉
-						Passionate front-end developer.
-					</p>
-				</section>
+				<About />
 				<section
 					id='projects'
 					className='pt-16'
