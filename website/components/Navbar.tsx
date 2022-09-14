@@ -2,9 +2,27 @@ import Link from "next/link"
 import { GithubIcon } from "./Icons"
 
 export function Navbar() {
+	const processScroll = () => {
+		let docElem = document.documentElement,
+			docBody = document.body,
+			scrollTop = docElem["scrollTop"] || docBody["scrollTop"],
+			scrollBottom =
+				(docElem["scrollHeight"] || docBody["scrollHeight"]) -
+				window.innerHeight,
+			scrollPercent = (scrollTop / scrollBottom) * 100 + "%"
+
+		document
+			.getElementById("progress-bar")
+			?.style?.setProperty("--scrollAmount", scrollPercent)
+	}
+	document.addEventListener("scroll", processScroll)
 	return (
 		<>
-			<nav className='navbar bg-base-100 fixed'>
+			<nav className='navbar bg-base-100 fixed top-0'>
+				<div
+					id='progress-bar'
+					className='h-1 bg-primary fixed left-0 top-0 rounded-full'
+				></div>
 				<div className='navbar-start'>
 					<div className='dropdown'>
 						<label
@@ -65,8 +83,11 @@ export function Navbar() {
 					</a>
 				</div>
 				<div className='navbar-end'>
-					<a href="https://github.com/naffydharni006/naffydharni006" className='btn btn-ghost hover:bg-transparent group'>
-						<GithubIcon className="h-5 w-5 group-hover:stroke-primary transition-colors duration-500" />
+					<a
+						href='https://github.com/naffydharni006/naffydharni006'
+						className='btn btn-ghost hover:bg-transparent group'
+					>
+						<GithubIcon className='h-5 w-5 group-hover:stroke-primary transition-colors duration-500' />
 					</a>
 				</div>
 			</nav>

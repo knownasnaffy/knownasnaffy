@@ -9,3 +9,8 @@ html {
 ::selection {
   @apply bg-secondary
 }
+
+#progress-bar {
+  --scrollAmount: 0%;
+  width: var(--scrollAmount);
+}
