@@ -12,7 +12,7 @@ export function Projects() {
 						<span className='text-primary/90'>My</span> Projects
 					</span>
 				</h2>
-				<div className='grid grid-cols-1 gap-8 mt-8 xl:my-20 xl:gap-24 md:grid-cols-3 xl:grid-cols-3'>
+				<div className='grid grid-cols-1 gap-8 mt-8 xl:my-20 xl:gap-8 md:grid-cols-3 xl:grid-cols-3'>
 					<ProjectCard
 						name='anDiary'
 						description='Write daily journals in your pc'
@@ -31,6 +31,7 @@ export function Projects() {
 						demoUrl='https://naffydharni.tk'
 						repo='naffydharni006/naffydharni006/blob/main/website'
 					/>
+					<a href="" className="btn btn-primary col-span-1 md:col-span-3">Load More</a>
 				</div>
 			</section>
 		</>
@@ -47,7 +48,7 @@ interface ProjectCardProps {
 function ProjectCard({ name, description, demoUrl, repo }: ProjectCardProps) {
 	return (
 		<>
-			<div className='card w-96 bg-base-100 hover:shadow-md transition-shadow duration-300'>
+			<div className='card bg-base-100 hover:shadow-md transition-shadow duration-300'>
 				<div className='card-body'>
 					<h2 className='card-title'>{name}</h2>
 					<p>{description}</p>
