@@ -41,7 +41,7 @@ export function Footer() {
 						<a
 							href='https://nextjs.org'
 							target='_blank'
-							className='text-black underline'
+							className='text-black underline hover:decoration-2'
 							rel='noreferrer'
 						>
 							Next.js
@@ -50,7 +50,7 @@ export function Footer() {
 						<a
 							href='https://tailwindcss.com'
 							target='_blank'
-							className='text-black underline'
+							className='text-black underline hover:decoration-2'
 							rel='noreferrer'
 						>
 							Tailwind
@@ -61,7 +61,7 @@ export function Footer() {
 						<a
 							href='https://vercel.com'
 							target='_blank'
-							className='text-black underline'
+							className='text-black underline hover:decoration-2'
 							rel='noreferrer'
 						>
 							Vercel
