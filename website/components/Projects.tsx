@@ -48,7 +48,7 @@ interface ProjectCardProps {
 function ProjectCard({ name, description, demoUrl, repo }: ProjectCardProps) {
 	return (
 		<>
-			<div className='card bg-base-100 hover:shadow-md transition-shadow duration-300'>
+			<div className='card bg-base-100 hover:shadow-md transition-shadow duration-300 z-0'>
 				<div className='card-body'>
 					<h2 className='card-title'>{name}</h2>
 					<p>{description}</p>
