@@ -64,7 +64,7 @@ export function Navbar() {
 					</a>
 				</div>
 				<div className='navbar-end'>
-					<a className='btn btn-ghost hover:bg-transparent'>
+					<a href="https://github.com/naffydharni006/naffydharni006" className='btn btn-ghost hover:bg-transparent'>
 						<svg
 							xmlns='http://www.w3.org/2000/svg'
 							viewBox='0 0 24 24'
