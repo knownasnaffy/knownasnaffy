@@ -27,7 +27,7 @@ export function Navbar() {
 							className='menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52'
 						>
 							<li>
-								<a href="#about">About</a>
+								<a href='#about'>About</a>
 							</li>
 							<li tabIndex={0}>
 								<a>Projects</a>
@@ -42,7 +42,10 @@ export function Navbar() {
 					</a>
 				</div>
 				<div className='navbar-center hidden lg:flex'>
-					<a className='btn btn-ghost hover:bg-transparent hover:text-primary'>
+					<a
+						className='btn btn-ghost hover:bg-transparent hover:text-primary'
+						href='#about'
+					>
 						About
 					</a>
 					<a className='btn btn-ghost hover:bg-transparent hover:text-primary'>
