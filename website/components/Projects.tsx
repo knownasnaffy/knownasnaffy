@@ -25,6 +25,12 @@ export function Projects() {
 						demoUrl='https://sustainable-tasks.tk'
 						repo='naffydharni006/sustainable-tasks'
 					/>
+					<ProjectCard
+						name='Portfolio'
+						description='My portfolio website'
+						demoUrl='https://naffydharni.tk'
+						repo='naffydharni006/naffydharni006/blob/main/website'
+					/>
 				</div>
 			</section>
 		</>
@@ -48,11 +54,12 @@ function ProjectCard({ name, description, demoUrl, repo }: ProjectCardProps) {
 					<div className='card-actions justify-end'>
 						{demoUrl ? (
 							<a
-								className='btn btn-primary transition-colors duration-500'
+								className='btn btn-primary gap-2 transition-colors duration-500'
 								target='_blank'
 								href={demoUrl}
 								rel='noreferrer'
 							>
+								<DemoIcon className="h-5 w-5" />
 								Demo
 							</a>
 						) : (
@@ -60,11 +67,12 @@ function ProjectCard({ name, description, demoUrl, repo }: ProjectCardProps) {
 						)}
 						{repo ? (
 							<a
-								className='btn btn-primary transition-colors duration-500'
+								className='btn btn-primary gap-2 transition-colors duration-500'
 								href={"https://github.com/" + repo}
 								target='_blank'
 								rel='noreferrer'
 							>
+								<GithubIcon className="h-5 w-5" />
 								Repo
 							</a>
 						) : (
