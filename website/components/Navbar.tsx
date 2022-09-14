@@ -1,28 +1,15 @@
 import Link from "next/link"
 import { GithubIcon } from "./Icons"
+import dynamic from "next/dynamic"
 
 export function Navbar() {
-	const processScroll = () => {
-		let docElem = document.documentElement,
-			docBody = document.body,
-			scrollTop = docElem["scrollTop"] || docBody["scrollTop"],
-			scrollBottom =
-				(docElem["scrollHeight"] || docBody["scrollHeight"]) -
-				window.innerHeight,
-			scrollPercent = (scrollTop / scrollBottom) * 100 + "%"
-
-		document
-			.getElementById("progress-bar")
-			?.style?.setProperty("--scrollAmount", scrollPercent)
-	}
-	document.addEventListener("scroll", processScroll)
+	const ProgressBar = dynamic(() => import("./ProgressBar"), {
+		ssr: false,
+	})
 	return (
 		<>
 			<nav className='navbar bg-base-100 fixed top-0'>
-				<div
-					id='progress-bar'
-					className='h-1 bg-primary fixed left-0 top-0 rounded-full'
-				></div>
+				<ProgressBar />
 				<div className='navbar-start'>
 					<div className='dropdown'>
 						<label

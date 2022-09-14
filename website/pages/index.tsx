@@ -1,15 +1,11 @@
 import type { NextPage } from "next"
 import { About, Footer, Hero, Navbar, Projects, Meta } from "../components"
-// import processScroll from "../scripts/processScroll"
 
 const Home: NextPage = () => {
-	
-
 	return (
 		<>
 			<div
 				className='bg-base-200'
-				// onScroll={processScroll}
 			>
 				<Meta />
 				<Navbar />
