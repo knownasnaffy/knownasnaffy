@@ -12,7 +12,7 @@ export function Projects() {
 						<span className='text-primary/90'>My</span> Projects
 					</span>
 				</h2>
-				<div className='grid grid-cols-1 gap-8 mt-8 xl:my-20 xl:gap-8 md:grid-cols-3 xl:grid-cols-3'>
+				<div className='grid grid-cols-1 gap-8 mt-20 xl:gap-8 md:grid-cols-3 xl:grid-cols-3'>
 					<ProjectCard
 						name='anDiary'
 						description='Write daily journals in your pc'
