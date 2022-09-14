@@ -1,7 +1,7 @@
 import type { NextPage } from "next"
 import Head from "next/head"
 import Image from "next/image"
-import { Navbar } from "../components"
+import { Footer, Navbar } from "../components"
 
 const Home: NextPage = () => {
 	return (
@@ -25,6 +25,7 @@ const Home: NextPage = () => {
 					</h1>
 				</section>
 			</main>
+			<Footer />
 		</div>
 	)
 }
