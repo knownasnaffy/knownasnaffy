@@ -5,7 +5,7 @@ module.exports = {
     "./components/**/*.tsx"
   ],
   daisyui: {
-    themes: ["light"],
+    themes: ["cupcake"],
   },
   theme: {
     extend: {},
