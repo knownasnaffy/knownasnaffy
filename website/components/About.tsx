@@ -6,8 +6,8 @@ export function About() {
 				className='pt-24'
 			>
 				<h2 className='text-5xl font-bold'>
-					<span className='pb-2 border-b-8 rounded-lg border-primary/90'>
-						<span className='text-primary/90'>About</span> Me
+					<span className='pb-2 border-b-8 rounded-lg border-primary'>
+						<span className='text-primary'>About</span> Me
 					</span>
 				</h2>
 				<p className='max-w-3xl pt-16 text-xl prose'>
