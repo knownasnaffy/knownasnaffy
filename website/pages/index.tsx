@@ -1,7 +1,5 @@
 import type { NextPage } from "next"
-import { About, Footer, Hero, Navbar } from "../components"
-import { Meta } from "../components/Meta"
-import { Projects } from "../components/Projects"
+import { About, Footer, Hero, Navbar, Projects, Meta } from "../components"
 
 const Home: NextPage = () => {
 	return (
