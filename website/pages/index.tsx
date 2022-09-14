@@ -5,7 +5,7 @@ import { Footer, Navbar } from "../components"
 
 const Home: NextPage = () => {
 	return (
-		<div className='h-screen'>
+		<div className='bg-base-200'>
 			<Head>
 				<title>Create Next App</title>
 				<meta
@@ -19,10 +19,35 @@ const Home: NextPage = () => {
 			</Head>
 			<Navbar />
 			<main className='container mx-auto md:px-20 px-10'>
-				<section className='min-h-screen flex items-center'>
+				<section className='min-h-screen flex flex-col justify-items-start place-content-center'>
 					<h1 className='text-8xl font-bold md:underline underline-offset-8 decoration-primary decoration-8'>
 						<span className='text-primary'>Naffy</span> Dharni
 					</h1>
+					<br />
+					<a
+						href='#about'
+						className='btn btn-primary max-w-fit normal-case mt-5 text-lg'
+					>
+						About me
+					</a>
+				</section>
+				<section
+					id='about'
+					className='pt-16'
+				>
+					<h2 className='text-5xl font-bold'>
+						<span className='pb-2 rounded-lg border-primary/90 border-b-8'>
+							<span className='text-primary/90'>About</span> Me
+						</span>
+					</h2>
+					<p className='py-16 prose text-xl max-w-3xl'>
+						Hey buddy 👋, Welcome to my portfolio.
+						<br />I am currently a high school student and I am
+						preparing for JEE Main and seeking to get into the
+						Thapar Institute of Engineering and Technology. I am
+						also a foodie 😋 - name a Punjabi who is not. 😉
+						Passionate front-end developer.
+					</p>
 				</section>
 			</main>
 			<Footer />

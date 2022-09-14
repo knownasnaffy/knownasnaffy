@@ -27,7 +27,7 @@ export function Navbar() {
 							className='menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52'
 						>
 							<li>
-								<a>About</a>
+								<a href="#about">About</a>
 							</li>
 							<li tabIndex={0}>
 								<a>Projects</a>
