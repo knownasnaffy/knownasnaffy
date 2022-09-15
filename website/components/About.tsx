@@ -12,7 +12,7 @@ export function About() {
           <br />I am currently a high school student and I am preparing for JEE
           Main and seeking to get into the Thapar Institute of Engineering and
           Technology. I am also a foodie 😋 - name a Punjabi who is not. 😉
-          Passionate front-end developer.
+          and a passionate front-end developer.
         </p>
       </section>
     </>
