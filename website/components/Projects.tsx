@@ -16,12 +16,12 @@ export function Projects() {
             demoUrl='https://andiary.tk'
             repo='naffydharni006/anDiary'
           />
-          <ProjectCard
+          {/* <ProjectCard
             name='SD-Tasks'
             description='App which gives you tasks for sustainable development'
             demoUrl='https://sustainable-tasks.tk'
             repo='naffydharni006/sustainable-tasks'
-          />
+          /> */}
           <ProjectCard
             name='Portfolio'
             description='My portfolio website'

@@ -14,7 +14,7 @@ export function Footer() {
           >
             anDiary
           </a>
-          <a className='link link-hover text-lg'>E-Tasks</a>
+          {/* <a className='link link-hover text-lg'>E-Tasks</a> */}
         </div>
         <div>
           <span className='footer-title text-xl'>Social</span>
