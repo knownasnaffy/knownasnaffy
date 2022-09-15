@@ -3,14 +3,20 @@
 @tailwind utilities;
 
 html {
-  scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
 
 ::selection {
-  @apply bg-secondary
+	@apply bg-secondary;
 }
 
 #progress-bar {
-  --scrollAmount: 0%;
-  width: var(--scrollAmount);
+	--scrollAmount: 0%;
+	width: var(--scrollAmount);
+}
+
+#navbar {
+  --top: 0px;
+  top: var(--top);
+	transition: top 0.3s;
 }
