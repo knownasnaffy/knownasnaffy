@@ -68,7 +68,7 @@ export function Navbar() {
 					>
 						Projects
 					</a>
-					<a className='btn btn-ghost hover:bg-transparent hover:text-primary transition-colors duration-500'>
+					<a className='btn btn-ghost hover:bg-transparent hover:text-primary transition-colors duration-500' href="#techs">
 						Tech Stack
 					</a>
 				</div>
