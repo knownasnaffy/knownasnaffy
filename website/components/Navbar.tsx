@@ -8,8 +8,11 @@ export function Navbar() {
 	})
 	return (
 		<>
-				<ProgressBar />
-			<nav id="navbar" className='navbar bg-base-100 fixed z-40'>
+			<ProgressBar />
+			<nav
+				id='navbar'
+				className='navbar bg-base-100 fixed z-40'
+			>
 				<div className='navbar-start'>
 					<div className='dropdown'>
 						<label
