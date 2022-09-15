@@ -28,8 +28,8 @@ export function Projects() {
             demoUrl='https://naffydharni.tk'
             repo='naffydharni006/naffydharni006/blob/main/website'
           />
-          <a href='' className='btn btn-primary col-span-1 md:col-span-3'>
-            Load More
+          <a href='' className='btn btn-primary col-span-1 self-center'>
+            All Projects
           </a>
         </div>
       </section>
