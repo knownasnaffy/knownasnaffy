@@ -41,10 +41,10 @@ export function Navbar() {
 								<a href='#about'>About</a>
 							</li>
 							<li tabIndex={0}>
-								<a>Projects</a>
+								<a href="#projects">Projects</a>
 							</li>
 							<li>
-								<a>Tech Stack</a>
+								<a href="#techs">Tech Stack</a>
 							</li>
 						</ul>
 					</div>
