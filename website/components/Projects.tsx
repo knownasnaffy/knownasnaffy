@@ -28,7 +28,7 @@ export function Projects() {
             demoUrl='https://naffydharni.tk'
             repo='naffydharni006/naffydharni006/blob/main/website'
           />
-          <a className='btn btn-primary col-span-1 self-center'>
+          <a className='btn btn-primary col-span-1 self-center hover:shadow-md transition-shadow duration-300 z-0 md:h-full text-xl'>
             All Projects
           </a>
         </div>
