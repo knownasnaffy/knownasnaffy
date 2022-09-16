@@ -3,7 +3,12 @@ import { DemoIcon, GithubIcon } from './Icons'
 export function Projects() {
   return (
     <>
-      <section data-aos="fade-right" data-aos-duration="1000" id='projects' className='pt-24 '>
+      <section
+        data-aos='fade-right'
+        data-aos-duration='1000'
+        id='projects'
+        className='pt-24 '
+      >
         <h2 className='text-5xl font-bold'>
           <span className='pb-2 border-b-8 rounded-lg border-primary/90'>
             <span className='text-primary/90'>My</span> Projects
