@@ -3,7 +3,7 @@
 export function TechStack() {
   return (
     <>
-      <section id='techs' className='pt-24 relative'>
+      <section data-aos="fade-right" data-aos-duration="1000" id='techs' className='pt-24 relative'>
         <h2 className='text-5xl font-bold'>
           <span className='pb-2 border-b-8 rounded-lg border-primary'>
             <span className='text-primary'>Tech</span> Stack

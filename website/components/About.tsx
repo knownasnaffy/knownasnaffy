@@ -1,7 +1,7 @@
 export function About() {
   return (
     <>
-      <section id='about' className='pt-24'>
+      <section data-aos="fade-right" data-aos-duration="1000" id='about' className='pt-24'>
         <h2 className='text-5xl font-bold'>
           <span className='pb-2 border-b-8 rounded-lg border-primary'>
             <span className='text-primary'>About</span> Me
