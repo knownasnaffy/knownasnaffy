@@ -9,7 +9,7 @@ export function About() {
         </h2>
         <p className='max-w-3xl pt-16 text-xl prose'>
           Hey buddy 👋, Welcome to my portfolio.
-          <br />I am currently a high school student and I am preparing for JEE
+          <br />I am currently a student in 11th standard and I am preparing for JEE
           Main and seeking to get into the Thapar Institute of Engineering and
           Technology. I am also a foodie 😋 - name a Punjabi who is not. 😉
           and a passionate front-end developer.
