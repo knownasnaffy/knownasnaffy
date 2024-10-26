@@ -2,7 +2,7 @@
   <img src="https://octodex.github.com/images/labtocat.png" alt="Labtocat" width=200 height=200 />
 </p>
 
-<h1 align="center">Naffy Dharni</h1>
+<h1 align="center">Barinderpreet Singh</h1>
 
 <p align="center">
   <a href="https://twitter.com/dharni_naffy?t=dRcl2t5B9ki07Qs0v6vnyw&s=09">
