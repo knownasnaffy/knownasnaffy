@@ -37,5 +37,5 @@ I'm a full-stack developer who blends logic with aesthetics — building clean, 
 If my work resonates with you, let’s talk ideas, code, or quiet tools that do loud things.
 
 - 📫 Mail me at **naffydharni006@gmail.com**
-- 🌐 Visit my space at [naffy.is-a.dev](https://naffy.is-a.dev)
+- 🌐 Visit my space at [barinderpreet.com](https://barinderpreet.com/)
 - 🤝 Find me on [LinkedIn](https://www.linkedin.com/in/knownasnaffy)
