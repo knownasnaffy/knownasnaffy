@@ -1,41 +1,26 @@
 # Barinderpreet Singh
-
-> _"Code is like humor. When you have to explain it, it’s bad."_
-> — **Cory House**
+> _"Code is like humor. When you have to explain it, it's bad."_ — **Cory House**
 
 ## 👨‍💻 Who I Am
+Full-stack developer who spends more time configuring development environments than actually developing.
 
-I'm a full-stack developer who blends logic with aesthetics — building clean, maintainable software with a user-first mindset.
+## 🛠️ What I'm Building
+- **YourHomeInCalgary** — Real estate listings that don't make house hunting feel like a nightmare (**Next.js** + **PostgreSQL**)
+- **Inner Ink** — Knowledge companion that doesn't judge your 3 AM thoughts (**Tauri** + **SQLite**)
+- **ERP Suite** — College management system that actually works (**Django** + **Next.js**)
 
-## 🎼 My Development Ritual
+## ⚡ My Stack
+- **Languages:** TypeScript, Python, JavaScript  
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Django, PostgreSQL  
+- **Editor:** Neovim (because I like my text editing with a side of philosophy)
 
-- Editor: **Neovim**, custom-configured for clarity and control.
-- Terminal: **Ghostty**, smooth and minimal, gets out of the way.
-- OS: **Arch Linux**, lightweight and expressive — everything I use, I chose.
-- Window Manager: **i3**, tiling and efficient, like clockwork.
-- Browser: **Qutebrowser**, keyboard-first, Vim-native browsing — no mouse required.
+## 🎯 Current Mission
+Building meaningful software while obsessing over whether my terminal colors truly spark joy.
 
-## 🛠️ Tools in Context: Projects That Shaped Me
-
-- **&iary** — a minimalist, write-only journal app built with **Python** and **Tkinter**.
-  Designed for quiet self-reflection, it stores date-based entries in plain text, keeping the experience distraction-free and personal.
-
-- **Inner Ink** — a local-first knowledge companion powered by **Tauri**, with **SQLite** storage and a custom rich text editor.
-  Built to help thoughts grow roots — fast, privacy-friendly, and delightfully yours.
-
-- **ERP Suite (Ongoing)** — a full-stack ERP system for college management.
-  Backend crafted with **Django + PostgreSQL**, frontend with **Next.js + TailwindCSS**.
-
-## 🌐 Fun Facts
-
-- Switched my **Caps Lock** to **Shift** — because ergonomics is a language too.
-- My idea of fun? **Tinkering with tech setups** — everything from custom terminal configurations to building a lightning-fast dev machine.
-- **TokyoNight theme** is my vibe — it’s everywhere: from **i3** and **Polybar** to **Neovim**, and even **messaging apps** like **Beeper** and **Thunderbird**. Consistency, always.
-
-## 🗺️ Let’s Connect
-
-If my work resonates with you, let’s talk ideas, code, or quiet tools that do loud things.
-
-- 📫 Mail me at **contact@barinderpreet.com**
-- 🌐 Visit my space at [barinderpreet.com](https://barinderpreet.com/)
-- 🤝 Find me on [LinkedIn](https://www.linkedin.com/in/knownasnaffy)
+## 🌐 Let's Connect
+If you appreciate clean code and questionable life choices:
+- 📫 **contact@barinderpreet.com**
+- 🌐 [barinderpreet.com](https://barinderpreet.com/)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/knownasnaffy)
+- 🐦 [Twitter](https://x.com/knownasnaffy)
