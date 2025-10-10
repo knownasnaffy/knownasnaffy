@@ -23,4 +23,3 @@ If you appreciate clean code and questionable life choices:
 - 📫 **contact@barinderpreet.com**
 - 🌐 [barinderpreet.com](https://barinderpreet.com/)
 - 🤝 [LinkedIn](https://www.linkedin.com/in/knownasnaffy)
-- 🐦 [Twitter](https://x.com/knownasnaffy)
